@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ren276
 - 👀 I’m interested in building softwares
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python dsa
 - 💞️ I’m looking to collaborate on sql
 - 📫 How to reach me : sandeshv414@gmail.com
 
