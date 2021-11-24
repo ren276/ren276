@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ren276
 - 👀 I’m interested in building softwares
 - 🌱 I’m currently learning python dsa
-- 💞️ I’m looking to collaborate on sql
+- 💞️ I’m looking to assistance in python development
 - 📫 How to reach me : sandeshv414@gmail.com
 
 <!---
