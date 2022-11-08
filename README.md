@@ -131,5 +131,6 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![image](https://user-images.githubusercontent.com/89840800/200517785-0f0e817c-12d7-4582-9f6a-0c2f0cf0c837.png)
+
+
