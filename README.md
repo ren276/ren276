@@ -128,8 +128,7 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 [![@ren276's Holopin board](https://holopin.me/ren276)](https://holopin.io/@ren276)
 
