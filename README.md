@@ -7,16 +7,16 @@
   <a href="https://www.linkedin.com/in/sandeshverma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sandeshverma0311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://sandeshverma.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Remote-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-FullTime-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-I build things that ship — mobile apps, AI backends, and full-stack products. I've shipped production Android and iOS features to **millions of users at Navan ($9.2B)**, built an IoT smart home app solo from scratch, and designed an AI/ML pipeline processing **10,000+ events/sec** with LLM-powered root-cause analysis in under 2 seconds.
+I build things that ship - mobile apps, AI backends, and full-stack products. I've shipped production Android and iOS features to **millions of users at Navan ($9.2B)**, built an IoT smart home app solo from scratch, and designed an AI/ML pipeline processing **10,000+ events/sec** with LLM-powered root-cause analysis in under 2 seconds.
 
 I hold a **granted patent** in generative AI systems and have peer-reviewed NLP research published on Springer. I'm not just learning this stuff — I've built it in production.
 
-Currently open to **remote engineering roles** and **freelance clients** in mobile, AI/ML, and full-stack.
+Currently open to **all types of engineering roles** and **freelance clients** in mobile, AI/ML, and full-stack.
 
 ---
 
@@ -46,7 +46,7 @@ Currently open to **remote engineering roles** and **freelance clients** in mobi
 
 <p align="center">
   <a href="https://github.com/ren276/Sentinels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Sentinel&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Sentinels&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ren276/Strata">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Strata&theme=tokyonight&hide_border=true" />
@@ -120,14 +120,14 @@ Sole engineer. Built and shipped an entire IoT product end-to-end.
   </picture>
 </p>
 
-> ⚠️ **Snake not showing?** You need to run the GitHub Action once. Create `.github/workflows/snake.yml` in your `ren276/ren276` repo with the workflow from the setup instructions, then run it manually from the Actions tab.
+
 
 ---
 
 ## 📍 Currently
 
 - Building in the AI/ML + mobile space
-- Open to **remote SDE roles** and **freelance projects** (mobile apps, AI backends, full-stack)
+- Open to **remote/in-office SDE roles** and **freelance projects** (mobile apps, AI backends, full-stack)
 - Based in New Delhi, works across time zones
 
 ---
@@ -142,4 +142,4 @@ Sole engineer. Built and shipped an entire IoT product end-to-end.
   <a href="https://sandeshverma.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 
-<p align="center">If you're building something interesting in mobile or AI — or need someone who can own an entire product surface — I'd love to hear about it.</p>
+<p align="center">If you're building something interesting in mobile or AI, or need someone who can own an entire product surface — I'd love to hear about it.</p>
