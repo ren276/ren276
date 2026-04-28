@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user: ren276
+          github_user_name: ren276
           github_user_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
