@@ -45,7 +45,7 @@ Currently open to **remote engineering roles** and **freelance clients** in mobi
 ## 🚀 Projects Worth Looking At
 
 <p align="center">
-  <a href="https://github.com/ren276/Sentinel">
+  <a href="https://github.com/ren276/Sentinels">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Sentinel&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ren276/Strata">
@@ -53,7 +53,7 @@ Currently open to **remote engineering roles** and **freelance clients** in mobi
   </a>
 </p>
 
-### 🔍 [Sentinel](https://github.com/ren276/Sentinel)
+### 🔍 [Sentinel](https://github.com/ren276/Sentinels)
 AI-powered observability platform. Ingests 10,000+ events/sec via Kafka, runs anomaly detection with Llama 3.2 + LSTM Autoencoder, and surfaces root causes in **1.8 seconds** — fully on-prem, zero third-party API dependency.  
 `Python` `FastAPI` `Kafka` `PostgreSQL` `Redis` `GCP` `Next.js` `Llama 3.2`
 
