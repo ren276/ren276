@@ -43,28 +43,33 @@ Currently open to **all types of engineering roles** and **freelance clients** i
 ---
 
 ## 🚀 Projects Worth Looking At
-
+ 
 <p align="center">
-  <a href="https://github.com/ren276/Sentinels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Sentinels&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ren276/Aira">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Aira&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ren276/Strata">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Strata&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ren276/Sentinels">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ren276&repo=Sentinels&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-### 🔍 [Sentinel](https://github.com/ren276/Sentinels)
-AI-powered observability platform. Ingests 10,000+ events/sec via Kafka, runs anomaly detection with Llama 3.2 + LSTM Autoencoder, and surfaces root causes in **1.8 seconds** — fully on-prem, zero third-party API dependency.  
-`Python` `FastAPI` `Kafka` `PostgreSQL` `Redis` `GCP` `Next.js` `Llama 3.2`
-
-### 🏠 [Autumn8 — IoT Smart Home App](https://github.com/ren276/Autumn8)
-Built solo as the only engineer at HeimatVerse. Full cross-platform Flutter app with Arduino hardware integration. Re-engineered the communication protocol from scratch — cut prototype test cycle time by **75%**.  
-`Flutter` `Dart` `Arduino` `IoT`
-
+### 🧠 [Aira](https://github.com/ren276/Aira)
+Privacy-first, on-device health intelligence OS for Android. Aggregates wearable and phone sensor data, learns the user's unique physiology over time, and converts raw biometrics into explainable daily scores using on-device LLM inference — **zero raw data leaves the device**.  
+`Kotlin` `Jetpack Compose` `Health Connect` `TensorFlow Lite` `MediaPipe` `Gemma 4 2B` `Room` `SQLCipher` `Supabase` `Hilt`
+ 
 ### 🔐 [Strata](https://github.com/ren276/Strata)
 Async REST backend with 3-layer zero-trust security (Android Keystore, EncryptedSharedPreferences, Supabase Edge Functions). Handles **10,000+ users** at 60fps, cut redundant API calls 40% via intelligent caching.  
 `Kotlin` `Ktor` `Supabase` `OAuth 2.0` `GCP`
-
+ 
+### 🔍 [Sentinel](https://github.com/ren276/Sentinels)
+AI-powered observability platform. Ingests 10,000+ events/sec via Kafka, runs anomaly detection with Llama 3.2 + LSTM Autoencoder, and surfaces root causes in **1.8 seconds** — fully on-prem, zero third-party API dependency.  
+`Python` `FastAPI` `Kafka` `PostgreSQL` `Redis` `GCP` `Next.js` `Llama 3.2`
+ 
 ---
 
 ## 💼 Where I've Worked
