@@ -1,46 +1,69 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandesh Verma
-=====================================================================================================================================
+# Hey, I'm Sandesh 👋
 
-Flutter and ML Developer
-------------------------
+I build things that ship — mobile apps, AI backends, and full-stack products. I've shipped production Android and iOS features to **millions of users at Navan ($9.2B)**, built an IoT smart home app solo from scratch, and designed an AI/ML pipeline processing **10,000+ events/sec** with LLM-powered root-cause analysis in under 2 seconds.
 
-* 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [sandeshverma0311@gmail.com](mailto:sandeshverma0311@gmail.com)
-* 🧠  I'm learning AWS, Machine Learning, DSA
-* 🤝  I'm open to collaborating on Flutter, Kotlin, ML and AI
+I hold a **granted patent** in generative AI systems and have peer-reviewed NLP research published on Springer. I'm not just learning this stuff — I've built it in production.
 
-<a href="https://www.github.com/ren276" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ren276?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/helosandy13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/helosandy13?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/lulguy1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/lulguy1?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+Currently open to **remote engineering roles** and **freelance clients** in mobile, AI/ML, and full-stack.
 
-### Skills
+---
 
+## What I Work With
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+**Mobile** → Flutter · Kotlin · SwiftUI · Android · iOS  
+**Backend** → Python · FastAPI · Node.js · Ktor · Kafka · PostgreSQL · Redis  
+**AI/ML** → Llama 3.2 · TensorFlow · MLflow · LSTM · Isolation Forest · NLP  
+**Full-Stack** → Next.js · TypeScript · REST APIs · OAuth 2.0  
+**Infra** → GCP · Docker · CI/CD · Git  
 
+---
 
-### Socials
+## Projects Worth Looking At
 
-<p align="left"> <a href="https://discord.com/users/ren3366" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ren276" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://sandeshverma.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sandeshverma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/helosandy13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/lulguy1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+### 🔍 [Sentinel](https://github.com/ren276/Sentinel)
+AI-powered observability platform. Ingests 10,000+ events/sec via Kafka, runs anomaly detection with Llama 3.2 + LSTM Autoencoder, and surfaces root causes in **1.8 seconds** — fully on-prem, zero third-party API dependency.  
+`Python` `FastAPI` `Kafka` `PostgreSQL` `Redis` `GCP` `Next.js` `Llama 3.2`
 
-### Badges
+### 🏠 [Autumn8 — IoT Smart Home App](https://github.com/ren276/Autumn8)
+Built solo as the only engineer at HeimatVerse. Full cross-platform Flutter app with Arduino hardware integration. Re-engineered the communication protocol from scratch — cut prototype test cycle time by **75%**.  
+`Flutter` `Dart` `Arduino` `IoT`
 
-<b>My GitHub Stats</b>
+### 🔐 [Strata](https://github.com/ren276/Strata)
+Async REST backend with 3-layer zero-trust security (Android Keystore, EncryptedSharedPreferences, Supabase Edge Functions). Handles **10,000+ users** at 60fps, cut redundant API calls 40% via intelligent caching.  
+`Kotlin` `Ktor` `Supabase` `OAuth 2.0` `GCP`
 
-<a href="http://www.github.com/ren276"><img src="https://github-readme-stats.vercel.app/api?username=ren276&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ren276's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ren276"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ren276&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Where I've Worked
 
+**Navan** ($9.2B, Series E) — SDE Intern, 2024  
+Full-stack mobile across Android + iOS. Took crash-free rate to **95.66%** across millions of sessions. Cut feature load time 33%.
 
-<a href="https://github.com/ren276" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren276&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**HeimatVerse** — Flutter Developer Intern, 2023  
+Sole engineer. Built and shipped an entire IoT product end-to-end.
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ren276&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<br />
+---
 
+## A Couple of Things I'm Proud Of
+
+- 📜 **Patent granted (2026)** — System for Generating Interactive Digital Avatars (No. 202511117683)
+- 📄 **Springer-published NLP research** — Quantitative evaluation of AssemblyAI vs WhisperAI
+
+---
+
+## Currently
+
+- Building in the AI/ML + mobile space
+- Open to **remote SDE roles** and **freelance projects** (mobile apps, AI backends, full-stack)
+- Based in New Delhi, works across time zones
+
+---
+
+## Let's Talk
+📧 [Portfolio here](sandeshverma.dev) 
+📧 [sandeshverma0311@gmail.com](mailto:sandeshverma0311@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/sandeshverma)  
+🐦 [X / Twitter](https://x.com/helosandy13)  
+📝 [Blog on Hashnode](https://sandeshverma.hashnode.dev)
+
+If you're building something interesting in mobile or AI — or need someone who can own an entire product surface — I'd love to hear from it.
