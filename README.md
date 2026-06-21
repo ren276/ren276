@@ -14,7 +14,7 @@
 
 I build things that ship - mobile apps, AI backends, and full-stack products. I've shipped production Android and iOS features to **millions of users at Navan ($9.2B)**, built an IoT smart home app solo from scratch, and designed an AI/ML pipeline processing **10,000+ events/sec** with LLM-powered root-cause analysis in under 2 seconds.
 
-I hold a **granted patent** in generative AI systems and have peer-reviewed NLP research published on Springer. I'm not just learning this stuff — I've built it in production.
+I hold a **published patent** in generative AI systems and have peer-reviewed NLP research published on Springer. I'm not just learning this stuff — I've built it in production.
 
 Currently open to **all types of engineering roles** and **freelance clients** in mobile, AI/ML, and full-stack.
 
